@@ -12,5 +12,12 @@
     "url": "https://example.com/apply",
     "publishedDate": "2025-07-03",
     "lastDate": "2025-08-05",
+  },
+{
+    "title": "Marketing Intern1 ",
+    "category": "SSC1",
+    "url": "https://example.com/apply",
+    "publishedDate": "2025-07-13",
+    "lastDate": "2025-08-15",
   }
 ]
