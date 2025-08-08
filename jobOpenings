@@ -2,22 +2,24 @@
   {
     "title": "Marketing Intern - PrepZy",
     "category": "IT",
-    "url": "https://example.com/apply-marketing",
+    "applyLink": "https://example.com/apply-marketing",
     "publishedDate": "2025-08-03",
     "lastDate": "2025-08-21"
   },
   {
     "title": "Marketing Intern",
     "category": "BANK",
-    "url": "https://example.com/apply",
+    "applyLink": "https://example.com/apply",
     "publishedDate": "2025-07-03",
-    "lastDate": "2025-08-05"
+    "lastDate": "2025-08-05",
+     "notificationPDF":"https://example.com/apply"
   },
   {
     "title": "Marketing Intern1",
     "category": "SSC1",
-    "url": "https://example.com/apply",
+    "applyLink": "https://example.com/apply",
     "publishedDate": "2025-07-13",
-    "lastDate": "2025-08-15"
+    "lastDate": "2025-08-15",
+    "notificationPDF":""
   }
 ]
