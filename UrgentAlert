@@ -1,8 +1,8 @@
 {
   "alertAppVersion": "2.33.20",
   "showOnlyAlert": true,
-   "navigates": true,
-"urgentAlertBanner":"Important update available! Click on link to download new app verersion,Important update available! Click on link to download new app verersion"
-   "alertMessage": "Important update available! Click on link to download new app verersion",
-   "newAppLink":"https://github.com/swipeupandlearn/swipeup/blob/main/UrgentAlert"
+  "navigates": true,
+  "urgentAlertBanner": "Important update available! Click on link to download new app verersion,Important update available! Click on link to download new app verersion",
+  "alertMessage": "Important update available! Click on link to download new app verersion",
+  "newAppLink": "https://github.com/swipeupandlearn/swipeup/blob/main/UrgentAlert"
 }
