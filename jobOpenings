@@ -1,25 +1,50 @@
 [
   {
-    "title": "Marketing Intern - PrepZy",
-    "category": "IT",
-    "applyLink": "https://example.com/apply-marketing",
-    "publishedDate": "2025-08-03",
-    "lastDate": "2025-08-21"
+    "title": "AIIMS CRE 2025 (Group B & C Posts)",
+    "category": "AIIMS/CENTRAL",
+    "applyLink": "https://aiimsexams.ac.in",
+    "publishedDate": "2025-08-09",
+    "lastDate": "—",
+    "notificationPDF": "Available on AIIMS exam portal"
   },
   {
-    "title": "Marketing Intern",
+    "title": "BSSC CGL 2025",
+    "category": "STATE - BIHAR",
+    "applyLink": "—",
+    "publishedDate": "2025-08-05",
+    "lastDate": "2025-09-17",
+    "notificationPDF": "Check BSSC official site"
+  },
+  {
+    "title": "Bank of Baroda Recruitment 2025",
     "category": "BANK",
-    "applyLink": "https://example.com/apply",
-    "publishedDate": "2025-07-03",
-    "lastDate": "2025-08-05",
-     "notificationPDF":"https://example.com/apply"
+    "applyLink": "—",
+    "publishedDate": "2025-08-07",
+    "lastDate": "—",
+    "notificationPDF": "Check BOB official notification"
   },
   {
-    "title": "Marketing Intern1",
-    "category": "SSC1",
-    "applyLink": "https://example.com/apply",
-    "publishedDate": "2025-07-13",
-    "lastDate": "2025-08-15",
-    "notificationPDF":""
+    "title": "TNPSC Group II & IIA Services 2025",
+    "category": "STATE - TAMIL NADU",
+    "applyLink": "https://tnpsc.gov.in",
+    "publishedDate": "2025-08-12",
+    "lastDate": "2025-08-13",
+    "notificationPDF": "Available on TNPSC site"
+  },
+  {
+    "title": "MPESB Paramedical CRE 2025",
+    "category": "STATE - MADHYA PRADESH",
+    "applyLink": "—",
+    "publishedDate": "2025-07-23",
+    "lastDate": "—",
+    "notificationPDF": "Check MPESB portal"
+  },
+  {
+    "title": "FCI Recruitment 2025 (Category II & III)",
+    "category": "CENTRAL",
+    "applyLink": "https://fci.gov.in",
+    "publishedDate": "2025-06-??",
+    "lastDate": "—",
+    "notificationPDF": "To be released on FCI site"
   }
 ]
