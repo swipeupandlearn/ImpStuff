@@ -1,3 +1,35 @@
 [
-  
+  {
+    "id": 1,
+    "title": "AIIMS CRE 2025 (Group B & C Posts)",
+    "type": "Job Notification",
+    "priority": "High",
+    "message": "AIIMS has released notification for Group B & C posts. Visit the official portal for details and application.",
+    "timestamp": "2025-08-09T09:30:00Z",
+    "action": {
+      "url": "https://aiimsexams.ac.in"
+    }
+  },
+  {
+    "id": 2,
+    "title": "Bank of Baroda Recruitment 2025",
+    "type": "Job Notification",
+    "priority": "Medium",
+    "message": "Bank of Baroda has announced vacancies for various posts. Check the official recruitment page for more details.",
+    "timestamp": "2025-08-10T14:15:00Z",
+    "action": {
+      "url": "https://www.bankofbaroda.in/career"
+    }
+  },
+  {
+    "id": 3,
+    "title": "System Maintenance Scheduled",
+    "type": "System Alert",
+    "priority": "Low",
+    "message": "Scheduled maintenance will occur on 2025-08-15 between 1 AM and 4 AM. Some services may be unavailable during this time.",
+    "timestamp": "2025-08-08T20:00:00Z",
+    "action": {
+      "url": "https://status.example.com"
+    }
+  }
 ]
