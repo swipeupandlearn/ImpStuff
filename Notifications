@@ -1,37 +1,3 @@
 [
-  {
-    "id": "1",
-    "title": "System Update Available",
-    "message": "Version 1.4.2 is ready to install. Please update to enjoy the latest features.",
-    "type": "update",
-    "priority": "high",
-    "timestamp": "2025-08-08T14:30:00Z",
-    "action": {
-      "type": "link",
-      "url": "https://yourapp.com/update"
-    }
-  },
-  {
-    "id": "2",
-    "title": "Exam Notification",
-    "message": "BPSC TRE exam date announced for September 15, 2025. Check details in the exam section.",
-    "type": "exam",
-    "priority": "urgent",
-    "timestamp": "2025-08-08T10:00:00Z",
-    "action": {
-      "type": "screen",
-      "screenName": "ExamDetails"
-    }
-  },
-  {
-    "id": "3",
-    "title": "Maintenance Alert",
-    "message": "Scheduled server maintenance on August 12 from 2:00 AM to 4:00 AM. Some features may be unavailable.",
-    "type": "maintenance",
-    "priority": "medium",
-    "timestamp": "2025-08-07T18:00:00Z",
-    "action": {
-      "type": "none"
-    }
-  }
+  
 ]
